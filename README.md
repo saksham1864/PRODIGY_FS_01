@@ -4,7 +4,7 @@
 </h1>
 
 
-## Aim?
+## Aim
 Implementing a user authentication system with secure login and registration functionality Node.js Framework using MongoDB as the data store, Express as the routing system, Body-parser as the parser for webpage, Express-session used  to track the user's session and Mongoose to make interacting with Mongo from Node easy.
 
 ## Results
