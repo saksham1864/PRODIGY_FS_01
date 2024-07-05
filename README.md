@@ -27,7 +27,7 @@ Using **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the dat
 
 A Collection(**Users**) is populated with the user's credentials.
 
-<img src="./docs/Screenshot 2024-07-05 050415.png" height="300" width="720" style="border: 1px solid black;"><br><br>
+<img src="./docs/Screenshot 2024-07-05 050415.png"  width="720" style="border: 1px solid black;"><br><br>
 
 <br>
 <br>
