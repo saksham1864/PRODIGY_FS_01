@@ -33,7 +33,7 @@ A Collection(**Users**) is populated with the user's credentials.
 <br>
 <br>
 
-## Prerequisites
+## Steps To Recreate
 Tools that we need to run this app:
 
 - ***[Node.js](https://nodejs.org/en/)***
