@@ -38,7 +38,6 @@ After the user is successful logged in, a simple profile with the user's usernam
 ### DataBase:
 User's Credentials are stored in the Mangodb database. 
 <img src="./git_dcs/database.png">
-<br><br>
 
 
 
@@ -74,9 +73,9 @@ To run this project locally, follow these steps:
    ```bash
    npm start
 
-5.**View the application**:
+5. **View the application**:
 
-Open your web browser and navigate to http://localhost:3000 to view the application.
+   Open your web browser and navigate to http://localhost:3000 to view the application.
 
 ## Example Usage
 
