@@ -1,0 +1,50 @@
+body{
+    background-color: white;
+
+}
+
+main{
+    display: flex;
+    text-align: center;
+    margin-top: 210px;
+    padding: 10px;
+    justify-content: center;
+}
+.d01{
+    background-color: rgba(194, 193, 193, 0.477);
+    border-radius: 12px;
+    padding-inline: 50px;
+
+    }
+button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 8px;
+    padding-inline: 40px;
+    margin-top: 10px;
+}
+form{
+    padding: 10px;
+    margin: 10px;
+    
+}
+a{
+    color: black;
+}
+
+h1{
+    text-decoration: solid;
+    font-style: italic;
+}
+
+.f_1{
+    font-weight: bold;
+    margin: 10px;
+}
+input{
+    padding:6px;
+    border-radius: 10px;
+    border: none;
+}

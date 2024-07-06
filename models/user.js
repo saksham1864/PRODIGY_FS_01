@@ -1,14 +1,19 @@
-var mongoose = require('mongoose');
-var Schema = mongoose.Schema;
+const mongoose = require('mongoose');
 
-userSchema = new Schema( {
-	
-	unique_id: Number,
-	email: String,
-	username: String,
-	password: String,
-	passwordConf: String
-}),
-User = mongoose.model('User', userSchema);
+const UserSchema = new mongoose.Schema({
+  name: String,
+  email: {
+    type: String,
+    required: true,
+    unique: true
+  },
+  password: {
+    type: String,
+    required: true
+  }
+});
+
+// Check if the model already exists before defining it
+const User = mongoose.models.User || mongoose.model('User', UserSchema);
 
 module.exports = User;
