@@ -71,7 +71,7 @@ To run this project locally, follow these steps:
    SESSION_SECRET=your_session_secret
 4. **Run the application**:
    ```bash
-   npm start
+   npm devStart
 
 5. **View the application**:
 
