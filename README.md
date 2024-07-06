@@ -35,3 +35,10 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+   
+1. **Install dependencies**:
+```bash
+   cd your-repository
+```bash
+   npm install
+
