@@ -39,6 +39,5 @@ To run this project locally, follow these steps:
 1. **Install dependencies**:
 ```bash
    cd your-repository
-```bash
    npm install
 
