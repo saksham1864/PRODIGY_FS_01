@@ -1,6 +1,8 @@
-# Secure Authentication System with Node.js, Passport.js, and MongoDB
+<h1 align="center">
+    <b>Secure Authentication System with Node.js, Passport.js, and MongoDB<br> </b> 
+<br>
+</h1>
 
-<br><br/>
 
 ## Overview
 
