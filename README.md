@@ -36,7 +36,7 @@ After the user is successful logged in, a simple profile with the user's usernam
 
 
 ### DataBase:
-User's Credentials are stored in the Mangodb database. 
+User's Credentials are stored in the Mongodb database. 
 <img src="./git_dcs/database.png">
 
 ## Dependencies
