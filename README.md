@@ -1,5 +1,5 @@
 <h1 align="center">
-    <b>Secure Authentication System with Node.js, Passport.js, and MongoDB<br> </b> 
+    <b>Secure Authentication System with Node.js, Passport.js, and MongoDB<br></b> 
 <br>
 </h1>
 
@@ -39,8 +39,6 @@ After the user is successful logged in, a simple profile with the user's usernam
 User's Credentials are stored in the Mangodb database. 
 <img src="./git_dcs/database.png">
 
-
-
 ## Dependencies
 
 - Node.js
@@ -76,6 +74,8 @@ To run this project locally, follow these steps:
 5. **View the application**:
 
    Open your web browser and navigate to http://localhost:3000 to view the application.
+
+
 
 ## Example Usage
 
