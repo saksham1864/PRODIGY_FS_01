@@ -3,7 +3,6 @@
 <br>
 </h1>
 
-
 ## Overview
 
 This project implements a secure authentication system using Node.js, Express.js, Passport.js for authentication strategies, bcrypt for password hashing, and MongoDB for data storage. It allows users to register, log in securely, and log out. This README provides an overview of the project, dependencies, and steps to recreate it.
