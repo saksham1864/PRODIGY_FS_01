@@ -75,6 +75,7 @@ To run this project locally, follow these steps:
    Open your web browser and navigate to http://localhost:3000 to view the application.
 
 ## Example Usage
+
 - Register a new user with a name, email, and password.
 - Log in with the registered credentials.
 - Access protected routes like the homepage and log out when done.
