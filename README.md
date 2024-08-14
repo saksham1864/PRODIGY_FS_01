@@ -1,4 +1,4 @@
-<h1 align="center">
+8<h1 align="center">
     <b>Secure Authentication System with Node.js, Passport.js, and MongoDB<br></b> 
 <br>
 </h1>
@@ -73,6 +73,7 @@ To run this project locally, follow these steps:
 5. **View the application**:
 
    Open your web browser and navigate to http://localhost:3000 to view the application.
+
 
 ## Example Usage
 
